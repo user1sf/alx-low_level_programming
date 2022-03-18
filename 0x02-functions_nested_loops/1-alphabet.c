@@ -1,12 +1,12 @@
 #include "main.h"
+
 /**
- *main - entry point
+ *print_alphabet - print alphabet in lowercase
  *
  *Return: Always 0 (Success)
  *
  */
 
-/*print alphabet task*/
 void print_alphabet(void)
 
 {
