@@ -17,7 +17,7 @@ void rev_string(char *s)
 		length++;
 	}
 
-	count = lenght;
+	count = length;
 
 	start_c = s;
 	end_c = s;
