@@ -4,8 +4,6 @@
 #include <stdio.h>
 
 /**
- * main - insertion num
- * Return: Always 0
  */
 
 int main(void)
