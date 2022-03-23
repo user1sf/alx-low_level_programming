@@ -23,9 +23,9 @@ int main(void)
 			putchar(second_nums / 10 + '0');
 			putchar(second_nums % 10 + '0');
 
-			if (fisrt_nums == 98 && second_nums == 99)
+			if (first_nums == 98 && second_nums == 99)
 			{
-				break
+				break;
 			}
 
 			putchar(',');
